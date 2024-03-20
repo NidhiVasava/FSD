@@ -41,7 +41,3 @@ This is an invoice system built using Spring Boot, MySQL database, and React.js.
 1. Navigate to the frontend directory.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the React development server.
-
-## Contributors
-- [Harsh Shah](https://github.com/harshshah056/InvoiceSystem)
-
