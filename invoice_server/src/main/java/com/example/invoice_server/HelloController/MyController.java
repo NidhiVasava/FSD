@@ -19,7 +19,7 @@ public class MyController {
     @RequestMapping("/hello")
     String hello1()
     {
-        return  "hello ujas";
+        return  "hello ";
     }
 
     @GetMapping("/login")

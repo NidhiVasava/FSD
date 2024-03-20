@@ -107,7 +107,7 @@ export const Auth = () => {
                 setUpass(e.target.value)
               }} />
               
-              <button type='submit' className='form-button'>Sign In</button>
+              <button type='submit' className='form-button'>Sign in</button>
             </form>
           </div>
         </div>
